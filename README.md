@@ -1,10 +1,8 @@
 # Django Food - AAHI goes open source.
+Open source backend for food ordering cross-platform applications built on Django framework.
 
-
-## What is this?
-
-Django-Food is a backend for food ordering cross-platform applications. This project is an effort to open-source the
-food-ordering platform [AAHI by Apex Labs](https://aahi.io) which is currently in production.
+This project is an effort to open-source the food-ordering platform [AAHI by Apex Labs](https://aahi.io) 
+which is currently in production.
 
 ## Progress
 
